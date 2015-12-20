@@ -1,0 +1,8 @@
+node_modules
+*.map
+build
+.idea
+webpackTypescript.iml
+tsd.json
+typings/*
+!typings/tsd.d.ts
